@@ -1,5 +1,5 @@
 {
-  "name": "oat-sa/extension-tao-outcomekeyvalue",
+  "name": "openthinklabs/extension-tao-outcomekeyvalue",
   "description": "extension to manage key-value outcomes in TAO",
   "type": "tao-extension",
   "authors": [
